@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaSharp.Appli", "PizzaSharp.Appli\PizzaSharp.Appli.csproj", "{DD9347AA-6588-42E2-8367-691A6EF63A58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaSharp.Metier", "PizzaSharp.Metier\PizzaSharp.Metier.csproj", "{9DA38D9A-0C82-44B1-A8E5-DE1C416EB99C}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD9347AA-6588-42E2-8367-691A6EF63A58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9347AA-6588-42E2-8367-691A6EF63A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9347AA-6588-42E2-8367-691A6EF63A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9347AA-6588-42E2-8367-691A6EF63A58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DA38D9A-0C82-44B1-A8E5-DE1C416EB99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA38D9A-0C82-44B1-A8E5-DE1C416EB99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA38D9A-0C82-44B1-A8E5-DE1C416EB99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA38D9A-0C82-44B1-A8E5-DE1C416EB99C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
